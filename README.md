@@ -1,3 +1,3 @@
 # Че то там
 Текст
-[[one.png]]
+<img src="one.png" alt="Компьютер" width="500" height="300">
